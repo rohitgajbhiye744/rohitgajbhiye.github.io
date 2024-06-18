@@ -225,6 +225,7 @@ section .right h3 span{
 .experiences{
     background: var(--primary);
     clip-path: polygon(0 0, 30% 15%, 100% 0, 100% 100%, 70% 90%, 0 100%);
+    
 }
 
 .experiences .container h1{
@@ -249,6 +250,7 @@ section .right h3 span{
 
 .experiences .container .img{
     display: flex;
+    padding: 6rem;
 }
 .contact .container h1{
     color: var(--logo);
